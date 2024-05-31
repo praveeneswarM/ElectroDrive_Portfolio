@@ -1,0 +1,32 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+header ul li{
+    @apply px-2;
+}
+
+.bg-prim{
+    background: black;
+}
+
+.bg-sec{
+    background:  white;
+}
+
+.mob-nav{
+    @apply  top-10 left-0 bg-white w-full h-1/4;
+}
+
+.mob-nav li{
+    @apply w-full h-full text-center border-b-2;
+}
+
+.service-des{
+    @apply absolute left-0 right-0 bottom-[0px] top-0 bg-sec opacity-0 duration-500 hover:opacity-100;
+}
+
+.btn{
+    @apply focus:outline-none text-white bg-yellow-400 hover:bg-yellow-500 focus:ring-1 focus:ring-black font-medium rounded text-sm px-5 py-2.5 me-2 mb-2;
+}
+

@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.61dd2add.css",
+    "main.js": "/static/js/main.795afff9.js",
+    "static/media/giff.gif": "/static/media/giff.bd38b2a7c33928775694.gif",
+    "static/media/abbt.png": "/static/media/abbt.971c43042dad67f0ffd0.png",
+    "static/media/bike.jpg": "/static/media/bike.a3a4632bf05f051249a4.jpg",
+    "static/media/auto.jpg": "/static/media/auto.dce5636e427951239ef3.jpg",
+    "static/media/logo.png": "/static/media/logo.de95f83b1017763458f2.png",
+    "index.html": "/index.html",
+    "main.61dd2add.css.map": "/static/css/main.61dd2add.css.map",
+    "main.795afff9.js.map": "/static/js/main.795afff9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.61dd2add.css",
+    "static/js/main.795afff9.js"
+  ]
+}
